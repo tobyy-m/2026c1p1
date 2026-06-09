@@ -10,7 +10,7 @@
 
 * **APELLIDO, NOMBRE**: Mercuri Tobías Nahuel
 * **COMISIÓN**: 1
-* **DNI**: 46695812
+* **DNI**: 
 
 ---
 
